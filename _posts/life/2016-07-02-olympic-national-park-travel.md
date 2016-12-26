@@ -10,7 +10,7 @@ keywords: 加州,生活,California,Olympic National Park
 
 ## 语晨
 
-![Nourish Sequim](http://oi6ixi7ze.bkt.clouddn.com/1698922711.jpg)
+![Hurricane Ridge](http://oi6ixi7ze.bkt.clouddn.com/1698922711.jpg)
 
 ## Hurricane Ridge
 
