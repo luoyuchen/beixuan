@@ -1,28 +1,28 @@
 # Site settings
 title: "Luo Wei's Blog"
 email: lwalex@foxmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  "Su Yan's Tech Blog"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yansu.org" # the base hostname & protocol for your site
-rss_url: /pages/feed.xml
-author: Su Yan
+#description: > # this means to ignore newlines until "baseurl:"
+  #"Luo Wei's Tech Blog"
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://" # the base hostname & protocol for your site
+#rss_url: /pages/feed.xml
+#author:
 twitter:
-  username: masonsuyan
+  username: Alexluo
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 
 # Social account
-twitter: masonsuyan
+twitter: Alexluo
 # weibo:    ID
 github: luoyuchen
 # codepen:  username
 # dribbble: username
 
 # avatar and Favicon
-avatar: http://oi6ixi7ze.bkt.clouddn.com/635938669.jpg
+avatar: http://oi6ixi7ze.bkt.clouddn.com/1698922711.jpg
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
