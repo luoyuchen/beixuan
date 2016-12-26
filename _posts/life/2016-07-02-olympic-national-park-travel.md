@@ -8,9 +8,7 @@ keywords: 加州,生活,California,Olympic National Park
 
 > Olympic National Park 是美国10大国家公园之一，体验过以后真的感觉，要雪山有雪山，要湖水有湖水，要雨林有雨林，几乎囊括了大部分客观上的户外景观。
 
-<iframe src="http://oi6ixi7ze.bkt.clouddn.com/635938669.jpg" width="640" height="480"></iframe>
-
-## Nourish Sequim
+## 语晨
 
 ![Nourish Sequim](http://oi6ixi7ze.bkt.clouddn.com/1698922711.jpg)
 
@@ -18,7 +16,7 @@ keywords: 加州,生活,California,Olympic National Park
 
 ![Hurricane Ridge](http://oi6ixi7ze.bkt.clouddn.com/635938669.jpg)
 
-![Hurricane Ridge](http://oi6ixi7ze.bkt.clouddn.com/635938669.jpg)
+![Hurricane Ridge](http://oi6ixi7ze.bkt.clouddn.com/1024913611.jpg)
 
 ![Hurricane Ridge](http://oi6ixi7ze.bkt.clouddn.com/1698922711.jpg)
 
