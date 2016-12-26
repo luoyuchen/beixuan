@@ -1,12 +1,12 @@
 # Site settings
 title: "Luo Wei's Blog"
 email: lwalex@foxmail.com
-#description: > # this means to ignore newlines until "baseurl:"
-  #"Luo Wei's Tech Blog"
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://" # the base hostname & protocol for your site
-#rss_url: /pages/feed.xml
-#author:
+description: > # this means to ignore newlines until "baseurl:"
+  "Luo Wei's Tech Blog"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yansu.org" # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Su Yan
 twitter:
   username: Alexluo
 
@@ -22,7 +22,7 @@ github: luoyuchen
 # dribbble: username
 
 # avatar and Favicon
-avatar: http://oi6ixi7ze.bkt.clouddn.com/1698922711.jpg
+avatar: http://oi6ixi7ze.bkt.clouddn.com/635938669.jpg
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
